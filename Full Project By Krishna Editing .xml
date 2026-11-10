@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-11-10 01:20 PM
+5.0.273.1028427 (1028427)
+de6c745 (Sep 10, 2026 10:28:31 PM)
+-->
+<scene title="Full Project By Krishna Editing " width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="16032" fps="30" modifiedTime="1794297033531" amver="1028427" ffver="106" am="com.alightcreative.motion/5.0.273.1028427" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="am:87DBB9D40E3C91B55B044F18AB08AFFF17EDF97A.mp3" filename="New Project 6317 [49B334D].mp3" title="New Project 6317 [49B334D].mp3" type="audio/mpeg" duration="16104000" size="282676" sig="87DBB9D40E3C91B55B044F18AB08AFFF17EDF97A" infoUpdated="1794296939506" />
+  <media uri="am:C2283DE7F412E1A278293F5B0AC512296E886832.jpg" filename="instabox_DPVbV0RkxdM_6.jpg" title="instabox_DPVbV0RkxdM_6.jpg" type="image/jpeg" size="572378" sig="C2283DE7F412E1A278293F5B0AC512296E886832" orientation="0" infoUpdated="1794296939507" width="1440" height="1914" />
+  <media uri="am:522168E22137C42846326ABD453CCD4699450FE5.png" type="image/png" duration="0" sig="522168E22137C42846326ABD453CCD4699450FE5" orientation="0" infoUpdated="1794296939508" width="0" height="0" />
+  <media uri="am:3A2A5E0906DEC9BE5B007E44E77371DF4D6B02A6.jpg" type="image/jpeg" duration="0" sig="3A2A5E0906DEC9BE5B007E44E77371DF4D6B02A6" orientation="0" infoUpdated="1794296939507" width="0" height="0" />
+  <media uri="am:BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E.jpg" type="image/jpeg" duration="0" sig="BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E" orientation="0" infoUpdated="1794296939508" width="0" height="0" />
+  <media uri="am:FA9F409E218CB3BFFC60E09394C411CDA5B81B3A.jpg" type="image/jpeg" duration="0" sig="FA9F409E218CB3BFFC60E09394C411CDA5B81B3A" orientation="0" infoUpdated="1794296939507" width="0" height="0" />
+  <media uri="am:29E50B11A81B5D6D9969AFBBFEA3F1559F5C545A.jpg" type="image/jpeg" duration="0" sig="29E50B11A81B5D6D9969AFBBFEA3F1559F5C545A" orientation="0" infoUpdated="1794296939507" width="0" height="0" />
+  <media uri="am:89384E87980496EE4143102AAC0C993AC3DBE36F.jpg" type="image/jpeg" duration="0" sig="89384E87980496EE4143102AAC0C993AC3DBE36F" orientation="0" infoUpdated="1794296939508" width="0" height="0" />
+  <media uri="am:6CC30C45DBA87E4A64367792381FF73D5FB1C388.jpg" type="image/jpeg" duration="0" sig="6CC30C45DBA87E4A64367792381FF73D5FB1C388" orientation="0" infoUpdated="1794296939508" width="0" height="0" />
+  <media uri="am:CC35596B00F25723175486589DCD2CA66CAAD415.jpg" type="image/jpeg" duration="0" sig="CC35596B00F25723175486589DCD2CA66CAAD415" orientation="0" infoUpdated="1794296939508" width="0" height="0" />
+  <media uri="am:733E79E48E9B4D7210C1E092A283607C6454F59A.png" filename="PhotoRoom-20261109_073824.png" title="PhotoRoom-20261109_073824.png" type="image/png" size="779067" sig="733E79E48E9B4D7210C1E092A283607C6454F59A" orientation="0" infoUpdated="1794296939508" width="1080" height="1348" />
+  <bookmark t="16016" />
+  <bookmark t="16" />
+  <audio id="6000009162" startTime="0" endTime="16032" src="am:87DBB9D40E3C91B55B044F18AB08AFFF17EDF97A.mp3" outTime="16032" mediaFillMode="fill" />
+  <shape id="6000009116" label="instabox_DPVbV0RkxdM_6.jpg" startTime="0" endTime="16032" fillType="media" fillImage="am:C2283DE7F412E1A278293F5B0AC512296E886832.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="-792.834717,-0.379761,0.000000" />
+      <scale value="0.245600,0.245600" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009119" label="instabox_DPVbV0RkxdM_6.jpg Copy" startTime="0" endTime="16032" fillType="media" fillImage="am:522168E22137C42846326ABD453CCD4699450FE5.png" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="-560.013428,18.318605,0.000000" />
+      <scale value="0.310185,0.310185" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009120" label="instabox_DPVbV0RkxdM_6.jpg Copy 2" startTime="0" endTime="16032" fillType="media" fillImage="am:3A2A5E0906DEC9BE5B007E44E77371DF4D6B02A6.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="-308.451324,21.479099,0.000000" />
+      <scale value="0.292593,0.292593" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009121" label="instabox_DPVbV0RkxdM_6.jpg Copy 3" startTime="0" endTime="16032" fillType="media" fillImage="am:BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="-62.502056,22.365856,0.000000" />
+      <scale value="0.290741,0.290741" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009122" label="instabox_DPVbV0RkxdM_6.jpg Copy 4" startTime="0" endTime="16032" fillType="media" fillImage="am:522168E22137C42846326ABD453CCD4699450FE5.png" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="175.721924,-1.838135,0.000000" />
+      <scale value="0.276852,0.276852" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009123" label="instabox_DPVbV0RkxdM_6.jpg Copy 5" startTime="0" endTime="16032" fillType="media" fillImage="am:FA9F409E218CB3BFFC60E09394C411CDA5B81B3A.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="407.701416,51.601654,0.000000" />
+      <scale value="0.325926,0.325926" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="339.000000,540.000000" />
+  </shape>
+  <shape id="6000009124" label="instabox_DPVbV0RkxdM_6.jpg Copy 6" startTime="0" endTime="16032" fillType="media" fillImage="am:BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="637.071533,12.495056,0.000000" />
+      <scale value="0.275926,0.275926" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009125" label="instabox_DPVbV0RkxdM_6.jpg Copy 7" startTime="0" endTime="16032" fillType="media" fillImage="am:522168E22137C42846326ABD453CCD4699450FE5.png" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="868.827393,34.851013,0.000000" />
+      <scale value="0.268519,0.268519" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009126" label="instabox_DPVbV0RkxdM_6.jpg Copy 8" startTime="0" endTime="16032" fillType="media" fillImage="am:29E50B11A81B5D6D9969AFBBFEA3F1559F5C545A.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="1103.066895,27.389771,0.000000" />
+      <scale value="0.287963,0.287963" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009127" label="instabox_DPVbV0RkxdM_6.jpg Copy 9" startTime="0" endTime="16032" fillType="media" fillImage="am:BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="1350.601807,30.876282,0.000000" />
+      <scale value="0.300926,0.300926" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009128" label="instabox_DPVbV0RkxdM_6.jpg Copy 10" startTime="0" endTime="16032" fillType="media" fillImage="am:522168E22137C42846326ABD453CCD4699450FE5.png" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="1601.396729,26.661987,0.000000" />
+      <scale value="0.292593,0.292593" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009129" label="instabox_DPVbV0RkxdM_6.jpg Copy 11" startTime="0" endTime="16032" fillType="media" fillImage="am:89384E87980496EE4143102AAC0C993AC3DBE36F.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="1847.512939,10.094360,0.000000" />
+      <scale value="0.286111,0.286111" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009130" label="instabox_DPVbV0RkxdM_6.jpg Copy 12" startTime="0" endTime="16032" fillType="media" fillImage="am:6CC30C45DBA87E4A64367792381FF73D5FB1C388.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="2103.707764,-139.172913,0.000000" />
+      <pivot value="0.000000,290.991211" />
+      <scale value="0.318379,0.318379" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009131" label="instabox_DPVbV0RkxdM_6.jpg Copy 13" startTime="0" endTime="16032" fillType="media" fillImage="am:522168E22137C42846326ABD453CCD4699450FE5.png" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="2364.994141,39.803589,0.000000" />
+      <scale value="0.309259,0.309259" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009132" label="instabox_DPVbV0RkxdM_6.jpg Copy 14" startTime="0" endTime="16032" fillType="media" fillImage="am:CC35596B00F25723175486589DCD2CA66CAAD415.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="2610.511719,9.507080,0.000000" />
+      <scale value="0.267593,0.267593" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <shape id="6000009133" label="instabox_DPVbV0RkxdM_6.jpg Copy 15" startTime="0" endTime="16032" fillType="media" fillImage="am:BBF244CE4FD28C89FCDE2399F0F2BB3427C0BA4E.jpg" mediaFillMode="fill" parent="6000009117" s=".rect">
+    <transform>
+      <location value="2832.362305,39.872734,0.000000" />
+      <scale value="0.264815,0.264815" />
+    </transform>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="406.000000,540.000000" />
+  </shape>
+  <nullobj id="6000009117" label="Null 1" startTime="0" endTime="16032" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.000998" v="4397.597168,618.965088,0.000000" />
+        <kf t="0.994885" v="-9302.761719,529.745483,0.000000" />
+      </location>
+      <scale value="3.890744,3.890744" />
+    </transform>
+  </nullobj>
+  <shape id="6000009136" label="Circle 1" startTime="0" endTime="16032" fillType="color" mediaFillMode="fill" s=".circle">
+    <transform>
+      <location value="1042.902222,-255.644165,0.000000" />
+      <scale value="4.982636,4.982636" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <property name="size" type="vec2" value="322.656250,100.000000" />
+  </shape>
+  <shape id="6000009137" label="Circle 1 Copy" startTime="0" endTime="16032" fillType="color" mediaFillMode="fill" s=".circle">
+    <transform>
+      <location value="942.023315,1418.237915,0.000000" />
+      <scale value="4.982636,4.982636" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <property name="size" type="vec2" value="322.656250,100.000000" />
+  </shape>
+  <text id="6000009138" startTime="0" endTime="16032" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Yeseva One&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1002.757019,132.292969,0.000000" />
+      <scale value="1.559548,1.559548" />
+    </transform>
+    <content>Happy Birthday </content>
+  </text>
+  <text id="6000009139" startTime="0" endTime="16032" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Sacramento&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="1074.410278,191.580078,0.000000" />
+      <scale value="1.281726,1.281726" />
+    </transform>
+    <fillColor value="#fff58730" />
+    <effect id="com.alightcreative.effects.edgeglow" locallyApplied="false">
+      <property name="smoothing" type="float" value="5.000000" />
+      <property name="threshold" type="float" value="0.700000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="strength" type="float" value="0.100000" />
+      <property name="spread" type="float" value="1.500000" />
+      <property name="fillColor" type="color" value="#ff0088ff" />
+      <property name="blend" type="float" value="0.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="brightness" type="float" value="0.000000" />
+      <property name="tintColor" type="color" value="#ff000000" />
+      <property name="tint" type="float" value="0.000000" />
+    </effect>
+    <content>Chandamama</content>
+  </text>
+  <shape id="6000009140" label="PhotoRoom-20261109_073824.png" startTime="0" endTime="16032" fillType="media" fillImage="am:733E79E48E9B4D7210C1E092A283607C6454F59A.png" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.036365" v="1041.562500,851.796875,0.000000" />
+        <kf t="0.000998" v="1036.012695,1620.336914,0.000000" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.contour" locallyApplied="false">
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="offset" type="float" value="0.000000" />
+      <property name="width" type="float" value="2.300000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="count" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="fade" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="432.500000,540.000000" />
+  </shape>
+  <shape id="6000009134" label="Rectangle 1" startTime="0" endTime="16032" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.000998" v="1725.086304,443.831482,0.000000" />
+        <kf t="0.050898" v="-549.347290,432.337341,0.000000" />
+      </location>
+      <scale value="2.264947,2.264947" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="false">
+      <property name="start" type="float" value="0.000000" />
+      <property name="end" type="float" value="0.404000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="feather" type="float" value="52.000000" />
+    </effect>
+    <property name="size" type="vec2" value="643.242249,1263.945190" />
+  </shape>
+</scene>
